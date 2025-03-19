@@ -1,0 +1,8 @@
+streamlit
+fusion_solar_py
+matplotlib
+pickle-mixin
+requests
+pandas
+numpy
+streamlit-autorefresh
